@@ -1,0 +1,5 @@
+# .gitignore
+medisoft_priv.pem
+medisoft_pub.pem
+SHA256SUMS.sig
+SHA256SUMS.txt
